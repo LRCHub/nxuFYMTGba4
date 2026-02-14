@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "パラノイア",
+  "base_artist": "梓川",
+  "createdAt": "2026-02-14T08:46:27.780905Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_パラノイア_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "Majiko",
+      "has_synced": true,
+      "path": "select/02_パラノイア_Majiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "Majiko",
+      "has_synced": true,
+      "path": "select/03_パラノイア_Majiko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "PIERROT",
+      "has_synced": false,
+      "path": "select/04_パラノイア_PIERROT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/05_パラノイア_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "梓川",
+      "has_synced": true,
+      "path": "select/06_パラノイア_梓川.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パラノイア",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/07_パラノイア_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラノイア",
+      "artist": "梓川",
+      "has_synced": false,
+      "path": "select/pl_01_パラノイア_梓川.txt"
+    }
+  ]
+}
